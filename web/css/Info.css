@@ -1,0 +1,78 @@
+.titulo{
+    text-align: center;
+     background: #fff;
+	padding: 10px;
+	width: 20%;
+	z-index: 1;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+        margin: 0px auto;
+}
+.ben{
+    text-align: center;
+     background: #fff;
+	padding: 10px;
+	width: 20%;
+	z-index: 1;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+        margin: 120px auto;
+}
+/*.dan{
+    text-align: center;
+     background: #fff;
+	padding: 10px;
+	width: 20%;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+        margin: 0px auto 120px auto;
+}*/
+.foto1{
+       background: #fff;
+	margin: 30px 0px -50px 30px;
+	padding: 40px;
+	width: 54%;
+	z-index: 1;
+	float: left;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);}
+.texto1 {
+	background: #fff;
+	margin: -480px 30px 150px 10px;
+	padding: 40px;
+	width: 40%;
+	z-index: 1;
+	float: right;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+}
+.foto2{
+       background: #fff;
+	margin: -70px 50px 150px 100px;
+	padding: 40px;
+	width: 22.5%;
+	z-index: 1;
+	float: right;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);}
+.texto2 {
+	background: #fff;
+	margin: -570px  30px 150px 50px;
+	padding: 40px;
+	width: 65%;
+	z-index: 1;
+	float: left;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+}
+
+.foto3{
+       background: #fff;
+	margin: -70px 50px 150px 100px;
+	padding: 40px;
+	width: 22.5%;
+	z-index: 1;
+	float: left;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);}
+.texto3 {
+	background: #fff;
+	margin: -570px  30px 150px 50px;
+	padding: 40px;
+	width: 65%;
+	z-index: 1;
+	float: right;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+}

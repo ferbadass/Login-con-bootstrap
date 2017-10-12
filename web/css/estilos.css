@@ -1,0 +1,183 @@
+* {	padding: 0;
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background: #C5C5C5;
+}
+nav a{
+	font-size: 19px;
+}
+nav a.izquierda{
+	float: left;
+}
+nav a.derecha{
+	float: right;
+}
+a.btcom{
+	font-size: 23px;
+}
+
+
+
+
+
+.carousel-inner p{
+	font-size: 25px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.carousel-inner p.mex{
+	text-align: center;
+	background: #167002;
+	color: #fff;
+	margin: 0px auto;
+}
+.carousel-inner p.eco{
+	text-align: center;
+	background: #697DE1;
+	color: #fff;
+	margin: 0px auto;
+}
+.carousel-inner p.mus{
+	text-align: center;
+	background: #362A5A;
+	color: #fff;
+	margin: 0px auto;
+}
+.carousel-inner p.tur{
+	text-align: center;
+	background: #6F5622;
+	color: #fff;
+	margin: 0px auto;
+}
+
+/*------FOCOS-------*/
+.acerca-de .contenedor {
+	
+}
+
+.acerca-de .foto {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	
+	z-index: 0;
+	
+}
+
+.acerca-de .foto img {
+	padding: 20px 0px;
+	width: 100%;
+}
+
+.acerca-de article {
+	background: #fff;
+	margin: 280px 50px 150px 10px;
+	padding: 40px;
+	width: 50%;
+	position: relative;
+	
+	z-index: 1;
+	float: right;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+}
+
+.acerca-de article h3 {
+	font-size: 50px;
+	font-weight: 300;
+	margin-bottom: 40px;
+}
+
+.acerca-de article p{
+	line-height: 28px;
+	margin-bottom: 15px;
+}
+
+/*Section 2*/
+.acerca-de2 .contenedor {
+	
+}
+
+.acerca-de2 .foto {
+	width: 100%;
+	position: absolute;
+	left: 0;
+	
+	z-index: 0;
+	
+}
+
+.acerca-de2 .foto img {
+	padding: 150px 0px;
+	width: 100%;
+}
+
+.acerca-de2 article {
+	background: #fff;
+	margin: 30px 50px 150px 10px;
+	padding: 40px;
+	width: 50%;
+	position: relative;
+	
+	z-index: 1;
+	float: left;
+	box-shadow: 0px 0px 15px rgba(0,0,0,.35);
+}
+
+.acerca-de2 article h3 {
+	font-size: 50px;
+	font-weight: 300;
+	margin-bottom: 40px;
+}
+
+.acerca-de2 article p{
+	line-height: 28px;
+	margin-bottom: 15px;
+}
+
+
+
+/*Musica*/
+
+
+
+
+
+
+
+
+
+
+
+footer {
+	font-size: 19px;
+  width: 100%;
+  bottom: auto;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  background: #222222;
+  color: #fff;
+  z-index: 1;
+  padding: 15px 0; 
+  
+}
+
+/*Fotos insta*/
+
+.Menu{
+   margin: auto;
+   width: 80%;
+   height: auto;
+  background-color: rgba(5, 27, 44, 0.6);
+  border: 4px solid rgb(208,208,208); 
+   box-shadow: 0px 0px 9px rgb(0,0,0);
+   padding: 40px;
+   align-content: center;
+   align-items: center;
+  
+}
